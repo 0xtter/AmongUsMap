@@ -1,0 +1,15 @@
+﻿  map.cpp
+E:\Thomas\Hack\HackAmongUs\HackAmongUs\map.cpp(13,41): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  Player.cpp
+E:\Thomas\Hack\HackAmongUs\HackAmongUs\Player.cpp(11,112): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+E:\Thomas\Hack\HackAmongUs\HackAmongUs\Player.cpp(11,71): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+  Génération de code en cours...
+  HackAmongUs.vcxproj -> E:\Thomas\Hack\HackAmongUs\Debug\HackAmongUs.exe
