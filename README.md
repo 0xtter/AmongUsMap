@@ -1,2 +1,2 @@
 # AmongUsMap
- A AmongUs' map vizualizer giving the position of every player. Made in C++
+ Reverse engineering of AmongUs to cheat by giving the position of every player. Made in C++
